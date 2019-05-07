@@ -1,0 +1,32 @@
+﻿l_english:
+
+################################
+###     Static Modifiers     ###
+################################
+
+################
+# Interbreeder #
+################
+
+# Biodiversity #
+
+lv_biodiverse_three_static: "Your empire has over 3 species, extensive interbreeding with a diverse gene pool has increased growth rates."
+lv_biodiverse_five_static: "Your empire has over 5 species, interbreeding in a highly diverse gene pool has increased growth rates."
+lv_biodiverse_ten_static: "Your empire has over 10 species, interbreeding in an extremely diverse gene pool has greatly increased growth rates."
+lv_biodiverse_twenty_static: "Your empire has over 20 species, extensive interbreeding in an unbelievably diverse gene pool has created incredibly fertile offspring."
+
+# Decisions #
+
+lv_breeding_planet: "Breeding Planet"
+lv_breeding_planet_desc: "This planet is focused on breeding."
+
+lv_breeding_frenzy: "Breeding Frenzy"
+lv_breeding_frenzy_desc: "This planet is in a breeding frenzy."
+
+lv_fuck_fest: "Fuck Fest"
+lv_fuck_fest_desc: "Production on this planet has come to a standstill as a global orgy is taking place."
+
+lv_public_exhibitionism: "Public Exhibitionism"
+lv_public_exhibitionism_desc: "Temporary clothing ban in effect."
+
+###

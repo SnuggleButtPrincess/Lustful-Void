@@ -1,0 +1,197 @@
+﻿l_english:
+
+######################
+###     Events     ###
+######################
+
+################
+# Interbreeder #
+################
+
+# All Female #
+
+lv_all_female_inform.1.desc: "在过去几年中，[Root.GetName]星球上的雌性因为异种雄性极具吸引力的特质，都选择与这种具有杂交精子的异种雄性生物杂交。由于这个原因，他们本物种的雄性很难找到配偶，导致许多雄性直接离开星球。现在已经到了这个物种全部是雌性的地步。如果我们愿意，我们可以通过制定保护雄性的政策来避免这种情况。 "
+lv_all_female.1.tooltip: "这个物种将只有雌性，这意味着他们现在只能作为寄生虫，生物机械播种机或其他类型的异种雄性的孵化器。"
+
+# All Male #
+
+lv_all_male_inform.1.desc: "在过去几年中，[Root.GetName]星球上的雄性因为异种雌性极具吸引力的特质，都选择与这种具有杂交子宫的异种雌性生物杂交。由于这个原因，他们本物种的雌性很难找到配偶，导致许多雌性直接离开星球。现在已经到了这个物种全部是雄性的地步。如果我们愿意，我们可以通过制定保护雌性的政策来避免这种情况。"
+lv_all_male.1.tooltip: "这个物种将只有雄性，这意味着他们现在只能与带有生物机械子宫的机器或其他类型的异种雌性一同繁殖。"
+
+# Biomechanical Breeder #
+
+lv_biomechanical_breeding_inform.1.desc: "不管愿意或不愿意，生物机械播种已经在[Root.GetName]星球上的生物和机器之间开始。"
+lv_biomechanical_breeding.1.tooltip: "雌性生物在这个过程中可能会有一些不适，特别是唯心主义者。"
+
+lv_biomechanical_breeding_inform.2.desc: "不管愿意或不愿意，生物机械播种已经在[Root.GetName]星球上的生物和机器之间开始。"
+lv_biomechanical_breeding.2.tooltip: "雌性生物在这个过程中可能会有一些不适，特别是唯心主义者。"
+
+# Biomechanical Wombs #
+
+lv_biomechanical_wombs_inform.1.desc: "生物机械育种已经在[Root.GetName]星球上的生物和机器之间开始。需小心操作机器。"
+lv_biomechanical_wombs.1.tooltip: "使用生物机械子宫的机器人单元需要特别注意不要伤害他们的生物后代。被迫与这些单位一起繁殖的雄性唯心主义者不会高兴。"
+
+lv_biomechanical_wombs_inform.2.desc: "生物机械育种已经在[Root.GetName]星球上的生物和机器之间开始。需小心操作机器。"
+lv_biomechanical_wombs.2.tooltip: "使用生物机械子宫的机器人单元需要特别注意不要伤害他们的生物后代。被迫与这些单位一起繁殖的雄性唯心主义者不会高兴。"
+
+# Brood Parasite #
+
+lv_brood_parasite_breeding_inform.1.desc: "寄生虫开始将它们的卵注入到[Root.GetName]成员的任何可以找到的洞中。"
+lv_brood_parasite.1.tooltip: "寄生虫将开始繁殖，携带虫卵的成员将会有较低的增长率和快乐度，除非他们是乐于此道的。可以构建人工宿主以满足这种需求。"
+
+lv_brood_parasite_breeding_inform.2.desc: "寄生虫开始将它们的卵注入到[Root.GetName]成员的任何可以找到的洞中。"
+lv_brood_parasite.2.tooltip: "寄生虫将开始繁殖，携带虫卵的成员将会有较低的增长率和快乐度，除非他们是乐于此道的。可以构建人工宿主以满足这种需求。"
+
+# Intercompatible sperm #
+
+lv_intercompatible_sperm_breeding_inform.1.desc: "异种雄性正在让[Root.GetName]上的雌性受精，有机会怀上杂交种。"
+lv_intercompatible_sperm.1.tooltip: "异种成员的增长速度将会下降，同时幸福度会上升。"
+
+lv_intercompatible_sperm_breeding_inform.2.desc: "异种雄性正在让[Root.GetName]上的雌性受精，有机会怀上杂交种。"
+lv_intercompatible_sperm.2.tooltip: "异种成员的增长速度将会下降，同时增加幸福度会上升。"
+
+# Intercomatible Womb #
+
+lv_intercompatible_womb_inform.1.desc: "异种雌性与[Root.GetName]上的雄性一起繁殖，有机会分娩杂交种。"
+lv_intercompatible_womb.1.tooltip: "异种成员的增长速度和幸福度都会增加。"
+
+lv_intercompatible_womb_inform.2.desc: "异种雌性与[Root.GetName]上的雄性一起繁殖，有机会分娩杂交种。"
+lv_intercompatible_womb.2.tooltip: "异种成员的增长速度和幸福度都会增加。"
+
+lv_intercompatible_womb_wildlife_inform.1.desc: "危险的野生生物已经开始让我们的殖民者在[Root.GetName上]继续繁衍新的后代。我们的雌性殖民者十分诱人的外表和信息素使他们能够相对安全地交配。但是，我们仍然应该小心潜在危险，这些野兽仍然是具有野性的。"
+lv_intercompatible_womb.3.tooltip: "雌性已经开始与当地的野生动物配种。"
+
+lv_intercompatible_womb_wildlife_inform.2.desc: "危险的野生生物已经开始让我们的殖民者在[Root.GetName上]继续繁衍新的后代。我们的雌性殖民者十分诱人的外表和信息素使他们能够相对安全地交配。但是，我们仍然应该小心潜在危险，这些野兽仍然是具有野性的。"
+lv_intercompatible_womb.4.tooltip: "雌性已经开始与当地的野生动物配种。"
+
+# Intercompatible Womb Wildlife #
+
+lv_intercompatible_womb_wildlife.kidnapped.desc: "[Root.GetName]上的殖民者在与危险的野兽交配时被劫持。目前尚不清楚究竟发生了什么，但这个消息是毁灭性的，该事件的报道在星际间广为流传！"
+lv_intercompatible_womb_wildlife.2a: "真是一个悲剧..."
+lv_intercompatible_womb_wildlife.2b: "确保这件事不会再发生!"
+lv_intercompatible_womb_wildlife.2b.tooltip: "对这些生物进行必要的研究，以发现造成这一事件的原因，并对和这些野兽配种的殖民者的交配习惯作出适当的改变。这会防止另一起事故。 Though due to the massive biodiversity of dangerous xenos across the galaxy this will only prevent another incident on this planet."
+
+# Hybrids #
+
+lv_hybrids_inform.1.desc: "[Root.GetName]上的[creatorpop1.GetSpeciesName]通过杂交，诞生了一个新人口。"
+lv_hybrids_inform.2.desc: "[Root.GetName]上的[creatorpop1.GetSpeciesName]通过杂交，诞生了一个新人口。"
+lv_hybrids_inform.3.desc: "一种完美的杂交种通过[planet.GetName]上的[creatorpop1.GetSpeciesName]杂交育种而诞生。\n\n他们拥有着令人难以置信的强力特性......"
+
+###########
+# Options #
+###########
+
+lv_options.back: "返回"
+lv_options.exit: "关闭"
+
+lv_options.2.name: "淫荡虚空选项"
+lv_options.2.desc: "在这里，您可以更改当前可用的任何mod选项。随着开发的推进，可能会增加更多。"
+
+lv_options.2.a: "隐藏事件子菜单"
+lv_options.2.b: "禁用事件子菜单"
+
+lv_options.3.name: "隐藏事件子菜单"
+lv_options.3.desc: "如果他们频繁弹出，将会隐藏事件弹出窗口。您也可以从此处再次启用它们。\n\n这不会禁用事件，只会隐藏弹出窗口。"
+
+lv_options.3.a: "隐藏事件"
+lv_options.3.b: "展出事件"
+
+lv_options.4.name: "禁用事件子菜单"
+lv_options.4.desc: "如果您愿意，可以在此处启用或禁用事件。\n\n默认情况下允许所有事件。另请注意，All Male选项仅禁用临时特性，其余事件由策略处理。Here you can allow or disable events if you like.\n\nAll events are allowed by default. Also note that the All Male option only disables the temporary traits, the rest of the event is handled by a policy."
+
+lv_options.4.a: "开启全体雄性事件"
+lv_options.4.b: "关闭全体雄性事件"
+lv_options.4.c: "开启杂交事件"
+lv_options.4.d: "关闭杂交事件"
+lv_options.4.e: "开启生物机械播种机事件"
+lv_options.4.f: "关闭生物机械播种机事件"
+lv_options.4.g: "开启生物机械子宫事件"
+lv_options.4.h: "关闭生物机械子宫事件"
+lv_options.4.i: "开启寄生虫事件"
+lv_options.4.j: "关闭寄生虫事件"
+lv_options.4.k: "开启杂交种事件"
+lv_options.4.l: "关闭杂交种事件"
+
+#########################
+###     Anomalies     ###
+#########################
+# Written by Darkspleen #
+#########################
+
+lv_sexy_planet_category: "奇特的生命形态"
+lv_sexy_planet_category_desc: "机组人员在§Y[From.GetName]§!上发现了某种奇特的生命形态."
+ 
+lv_sexy_planet.1.name: "有趣In Heat"
+lv_sexy_planet.1.desc: "所有为生命搜索做的努力都证明是徒劳的。甚至在§Y[From.GetName]§!的地表搜索也没有任何结果。\n\n似乎我们没有必要如此努力地搜索，因为我们的一名女飞行员在从星球表面返回时在她的调查船上发现了该生命。"
+lv_sexy_planet.1.a: "令人不安但又迷人。"
+
+lv_sexy_planet.2.name: "The Swarm"
+lv_sexy_planet.2.desc: "Upon touching down on the surface of  §Y[From.GetName]§! our survey team was immediately beset upon by a creature with an insatiable sex drive. The males of the survey team could do little more than watch as the creature stripped the clothes of the female members and penetrated all of their holes with its tentacles, not letting them go until it had fully filled them with its seed."
+lv_sexy_planet.2.a: "Disturbing, yet fascinating."
+lv_sexy_planet.2.b: "These vile creatures will make good test subjects for our latest weapons."
+lv_sexy_planet.2.c: "The women clearly enjoyed the experience."
+ 
+lv_sexy_planet_hard_category: "Something Lurks Here"
+lv_sexy_planet_hard_category_desc: "The crew believes it may have detected signs of a strange lifeform on §Y[From.GetName]§!, but whatever it is it has proven itself to be immensely hard to track."
+ 
+lv_sexy_planet_hard.1.name: "The Xeno Terror"
+lv_sexy_planet_hard.1.desc: "The crew managed to find the lifeform. Well... perhaps it would be more accurate to say that it found them. §G[Root.GetLeaderName]§! still isn't sure what sort of creature this lifeform is, but he says with some confident that it was bio-engineered. Whatever it is, the 'Xeno Terror' as the crew calls it, seems to have a strong attraction to the females of our species."
+lv_sexy_planet_hard.1.a: "Truly Horrifying"
+lv_sexy_planet_hard.1.b: "This is why no one important is sent on these missions."
+lv_sexy_planet_hard.1.c: "Nope! Nope! Nope!"
+lv_sexy_planet_hard.1.d: "Learn what we can then nuke the site from orbit."
+ 
+lv_nuclear_sex_category: "Life on a Ruined World"
+lv_nuclear_sex_category_desc: "The crew has detected lifeforms on the surface of §Y[From.GetName]§! despite the planet having been ruined by a nuclear conflict. Trying to find these lifeforms from orbit has proven frustrating at best, as the lifeforms are being shielded from our sensors by the various ruins on the planet's surface. §G[Root.GetLeaderName]§! has suggested sending a team to the surface to further investigate."
+lv_nuclear_sex.1.name: "Nuclear Sex"
+lv_nuclear_sex.1.desc: "The survey team hadn't been on the surface long before one of the lifeforms made contact with an isolated member of the team. Upon arriving at the scene the other survey members found the woman with her hazard suit completely torn off. Recordings of the incident indicate that the sexual act the xeno was performing on the woman probably would have been quite enjoyable for her if she wasn't receiving a lethal dose of radiation."
+lv_nuclear_sex.1.a: "Let's keep quiet about this incident."
+lv_nuclear_sex.1.b: "Make the recordings of the act public so we can learn as much as we can."
+lv_nuclear_sex.1.c: "Our scientist suffered a tragic, but unintended fate."
+ 
+lv_potential_colony_site_category: "Potential Colony Site"
+lv_potential_colony_site_category_desc: "[Root.GetLeaderName] claims to find a site on §Y[From.GetName]§! that would be perfect for a new colony."
+lv_sexy_planet.3.name: "Tentacled Lifeforms Abound"
+lv_sexy_planet.3.desc: "At first the site on §Y[From.GetName]§! did indeed seem perfect. The survey team was in the process of determining the best spot for a future administrative building when one of the team's females was suddenly pulled into a hole in the ground. She cried out as tendril-like appendages wrapped themselves around her and forced their way into her. §G[Root.GetLeaderName]§! informs us that the planet is home to numerous other 'tentacle lifeforms'."
+lv_sexy_planet.3.a: "Besides that its still a good site for a colony, right?"
+lv_sexy_planet.3.b: "Gather as much data as we can about these fascinating lifeforms."
+lv_sexy_planet.3.c: "Eradicate it! We won't tolerate the presence of these creatures."
+ 
+lv_slime_asteroid_category: "The Slime"
+lv_slime_asteroid_category_desc: "The crew of §B[Root.GetFleetName]§! has reported catching sight of some kind of slime-like entity on a nearby asteroid. §G[Root.GetLeaderName]§! has recommended we collect a sample for further research."
+ 
+lv_slime_asteroid.1.name: "Raunchy Slime"
+lv_slime_asteroid.1.desc: "The slime entity was easily located and brought aboard the §B[Root.GetFleetName]§!. §G[Root.GetLeaderName]§! wasn't sure if it was even alive or not until it broke free and attempted to mate with a female scientist."
+lv_slime_asteroid.1.a: "We can use their photosynthesizing nature to our advantage."
+lv_slime_asteroid.1.b: "Their biology and behavior is truly fascinating."
+lv_slime_asteroid.1.c: "Perhaps our engineers can find a use for them."
+lv_slime_asteroid.1.d: "Find some military usage to it."
+ 
+lv_sexy_asteroid_category: "Interesting Asteroid"
+lv_sexy_asteroid_category_desc: "The sensors of the §B[Root.GetFleetName]§! have picked up unusual readings on the nearby asteroid."
+ 
+lv_sexy_asteroid.1.name: "The Mad Scientist's Tentacled Creation"
+lv_sexy_asteroid.1.desc: "Upon further investigation the §B[Root.GetFleetName]§! detected a small facility built into the asteroid. A survey team is dispatched to investigate. At first all seems well, the facility seems deserted even, but suddenly the facility's defenses spring to life and incapacitate the team. A second team is sent in to rescue the first. It takes them some time, but eventually the first team is located in the depths of a clearly functioning laboratory. The facility's sole occupant has obviously decided that our people would make excellent test subjects for this tentacled creation."
+lv_sexy_asteroid.1.a: "Those poor women."
+lv_sexy_asteroid.1.b: "We will learn much from their sacrifice."
+lv_sexy_asteroid.1.c: "Let's learn what we can to make this worthwhile."
+lv_sexy_asteroid.1.d: "The creation of life is the domain of the divine!"
+lv_sexy_asteroid.1.e: "Our people ARE NOT your test subjects!"
+ 
+lv_sexy_asteroid.2.name: "The Cyber Sex Shop"
+lv_sexy_asteroid.2.desc: "Our survey team quickly located what could only be described of as a 'store catering in phallic prosthetics'. Interestingly the shop has informed our team that the vast majority of its customers are females."
+lv_sexy_asteroid.2.a: "Another tax source."
+lv_sexy_asteroid.2.a.tooltip: "Adds §G3§! £trade_value£§Y$TRADE_VALUE$§! to [from.GetName]"
+lv_sexy_asteroid.2.b: "There is much we can learn from these designs."
+lv_sexy_asteroid.2.b2: "We should take notes, these designs are quite interesting."
+lv_sexy_asteroid.2.c: "This will bring further equality to our people!"
+lv_sexy_asteroid.2.d: "This disrupts the natural order."
+ 
+lv_slug_planet_category: "Slug Planet"
+lv_slug_planet_category_desc: "After a few days scanning [from.GetName], [Root.GetFleetName] has detected some kind of lifeform that possesses any entirely different DNA structure than the rest of the lifeforms present. [Root.GetLeaderName] suggests sending a team down to the surface to investigate further."
+ 
+lv_slug_planet.1.name: "Slug Planet"
+lv_slug_planet.1.desc: "The detected lifeforms certainly did not belong to [from.GetName]'s ecosystem. From what our scientists could gather, the 'slugs' as they call them, were implanted on the planet centuries ago. Why? They can only speculate. What we know for sure is that they appear to like our people in a sexual sense. While investigating the slugs, several of our female scientists were dragged to the ground by the slugs, who then proceeded to have sexual intercourse with the females. Repeatedly. Thankfully the slugs made for gentle, if sticky, love makers."
+lv_slug_planet.1.a: "Interesting."
+
+###

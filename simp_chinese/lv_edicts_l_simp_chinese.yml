@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+
+######################
+###     Edicts     ###
+######################
+
+##########
+# Empire #
+##########
+
+edict_lv_sex_crazed_expansionists: "性狂热扩张Sex Crazed Expansionists"
+edict_lv_sex_crazed_expansionists_desc: "您的人口因不停地性交繁殖而迅速失控，也许您不得不制定全面的扩张性政策。Your population is rapidly getting out of hand, but you cannot stop breeding. You might have to enact a full scale expansionary policy."
+
+###########
+# Options #
+###########
+
+edict_lv_options_menu: "淫荡虚空选项Lustful Void Options"
+edict_lv_options_menu_desc: "打开此法令选项菜单。This edict opens the options menu."
+
+#########################
+###     Decisions     ###
+#########################
+
+decision_planet_lv_breeding_planet: "繁殖星球Breeding Planet"
+decision_planet_lv_breeding_planet_desc: "鼓励这个世界的民众重点考虑繁殖后代。增加人口增长率5年。Encourage the populace of this world to prioritize the conception of offspring. Increasing population growth at the expense of other areas for 5 years."
+
+decision_planet_lv_breeding_frenzy: "疯狂繁殖Breeding Frenzy"
+decision_planet_lv_breeding_frenzy_desc: "将这个星球转变为一个繁殖世界，让这个星球只考虑尽可能多的生产后代。Convert this planet into a breeding world, making this planet's only priority to pump out as much offspring as possible for 5 years."
+
+decision_planet_lv_fuck_fest: "性交聚会Fuck Fest"
+decision_planet_lv_fuck_fest_desc: "允许性狂热的公民被其性欲完全消耗掉。Allow your already sex crazed citizens to be fully consumed by their sexual needs."
+
+decision_planet_lv_public_exhibitionism: "公共展览Public Exhibitionism"
+decision_planet_lv_public_exhibitionism_desc: "鼓励这个世界的民众进行5年的公共场合性爱，增加民众的民意，并引起后代生产率的飙升。Encourage the populace of this world to perform displays of public exhibitionism for 5 years, increasing popular opinion of the populace as well as causing a spike in offspring."
+
+###

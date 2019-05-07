@@ -1,0 +1,479 @@
+﻿l_simp_chinese:
+
+#############################
+###     Leader Traits     ###
+#############################
+
+############
+# Positive #
+############
+
+#########
+# Ruler #
+#########
+
+leader_trait_ruler_lv_lustful_body: "性感胴体"
+leader_trait_ruler_lv_lustful_body_desc: "这位统治者有着一副如雕塑般的完美胴体，她的吸引力纵使在茫茫星海的外星物种眼中也是勾魂夺魄的。This ruler is very attractive, with a perfectly sculpted body that is at least obvious to even the most alien eyes."
+
+leader_trait_ruler_lv_seductive: "妖媚"
+leader_trait_ruler_lv_seductive_desc: "这位统治者深谙如何魅惑他人, 用性暗示挑起他们的性欲，降低他们的理性，玩弄对方于股掌之间。"
+
+leader_trait_ruler_lv_family_oriented: "家庭取向"
+leader_trait_ruler_lv_family_oriented_desc: "这位领导者努力成为他们的人民的榜样，拥有一个非常大的家庭，他珍贵的空闲时间都与他的孩子们一起度过。This leader strives to be an example for their people, with a very large family and their precious little free time being spent with their kids."
+
+leader_trait_ruler_lv_frugal: "俭朴"
+leader_trait_ruler_lv_frugal_desc: "这位统治者反对物质浪费，并认为在姐妹们的怀抱中能寻求到更佳的满足感。This ruler is vocal in her criticism of material waste, and believes satisfaction is better sought in the arms of ones sisters."
+
+############
+# Governor #
+############
+
+leader_trait_governor_lv_lustful_body: "性感胴体"
+leader_trait_governor_lv_lustful_body_desc: "这总督非常有吸引力，并使用自己的性吸引力，减少各种承包成本。This governor is very attractive, and uses their sex appeal to whittle down contractor costs."
+
+leader_trait_governor_lv_family_planner: "计划生育"
+leader_trait_governor_lv_family_planner_desc: "这位总督开展计划生育教育，确保所有种族的男孩成年后，才会想繁衍子嗣。This governor is involved with family planning and education, ensuring boys just starting their harems and established adults alike know the medical and paternal needs of all species under their roofs."
+
+leader_trait_governor_lv_tinkerer: "性工艺者"
+leader_trait_governor_lv_tinkerer_desc: "这位总督是性爱机器行业的投资人和发明家。This governor is an investor and tinkerer in the sexbot industry."
+
+leader_trait_governor_lv_rancher: "农牧人"
+leader_trait_governor_lv_rancher_desc: "这位总督一直在研究生态圈中有利于畜牧业的新发现。This governor is always studying the new discoveries in their worlds biospheres for new developments to husbandry, sapient or otherwise."
+
+#############
+# Scientist #
+#############
+
+leader_trait_scientist_lv_sadistic: "科学狂人"
+leader_trait_scientist_lv_sadistic_desc: "这位科学家只关注结果，公然无视道德和体面。This scientist is concerned with results first and foremost, and has a blatant disregard for ethics and decency."
+
+leader_trait_scientist_lv_sexologist: "性学家"
+leader_trait_scientist_lv_sexologist_desc: "这位科学家对性行为有着全面的了解。This researcher has a comprehensive understanding of sexuality."
+
+leader_trait_scientist_lv_zoophile: "Zoophile"
+leader_trait_scientist_lv_zoophile_desc: "这位科学家对动物的研究不仅仅是科学上的兴趣，他可以识别出其他人都会忽略的东西。This researcher has a more than purely scientific interest in animals, and can identify potential others would glance over."
+
+###########
+# Admiral #
+###########
+
+leader_trait_admiral_lv_sadistic: "战争狂人"
+leader_trait_admiral_lv_sadistic_desc: "这位舰队统帅轰炸着可能有敌方幸存者的舰队残骸，以此向敌人宣告他们的命运。This admiral scours the wreckage of space battles for survivors, and broadcasts their fates to the enemy."
+
+leader_trait_admiral_lv_rapist: "强奸者"
+leader_trait_admiral_lv_rapist_desc: "这位舰队统帅喜欢为俘虏带来另一场爱的战斗。This admiral likes to scour the remnants of space battles for survivors."
+
+###########
+# General #
+###########
+
+leader_trait_general_lv_sadistic: "Sadistic"
+leader_trait_general_lv_sadistic_desc: "这位陆军将军喜欢强迫非战斗人员观看他处决所有战俘和不听话的平民。This general forces non-combatants to watch as they brutalize and kill both prisoners of war and trouble making civilians."
+
+leader_trait_general_lv_rapist: "强奸者"
+leader_trait_general_lv_rapist_desc: "这位陆军将军更喜欢活在的战俘和平民。This general prefers to capture both combatants and civilians alive."
+
+############
+# Negative #
+############
+
+#########
+# Ruler #
+#########
+
+leader_trait_ruler_lv_shocking_fetish: "惊人的恋物癖"
+leader_trait_ruler_lv_shocking_fetish_desc: "这位统治者因社会谴责恋物癖为不正常兴趣而受波及。This ruler has been rocked by a scandal outing their deviant interest in a societally condemned fetish."
+
+leader_trait_ruler_lv_highly_submissive: "软弱"
+leader_trait_ruler_lv_highly_submissive_desc: "很少有人尊重这个积弱不振的统治者。Few respect this weak and ineffective ruler."
+
+############
+# Governor #
+############
+
+leader_trait_governor_lv_shocking_fetish: "惊人的恋物癖"
+leader_trait_governor_lv_shocking_fetish_desc: "这位总督因社会谴责恋物癖为不正常兴趣而受波及。This governor has been rocked by a scandal outing their deviant interest in a societally condemned fetish."
+
+leader_trait_governor_lv_highly_submissive: "软弱"
+leader_trait_governor_lv_highly_submissive_desc: "很少有人尊重这个积弱不振的总督。Few respect this weak and ineffective governor."
+
+###########
+# Admiral #
+###########
+
+leader_trait_admiral_lv_highly_submissive: "软弱"
+leader_trait_admiral_lv_highly_submissive_desc: "这位软弱的舰队统帅竭尽所能的避开战争"
+
+###########
+# General #
+###########
+
+leader_trait_general_lv_highly_submissive: "软弱"
+leader_trait_general_lv_highly_submissive_desc: "这位陆军将军对友军造成的伤害大于对敌人的。This PoG general poses a bigger risk to their own troops than they do the enemy."
+
+##########################
+###     Bio Traits     ###
+##########################
+
+############
+# Positive #
+############
+
+trait_lv_dominant: "支配性"
+trait_lv_dominant_desc: "§L这个物种具有天然的支配欲望，他们非常喜欢支配他人，尤其是他们的身体.§!\n"
+
+trait_lv_submissive: "服从性"
+trait_lv_submissive_desc: "§L这个物种在社交，情感尤其是性方面十分弱势。在与任何种族互动时，他们都更倾向于在其身下.§!\n"
+
+trait_lv_sexual_pheromones: "信息素"
+trait_lv_sexual_pheromones_desc: "§L这个物种能散发出各种性激素，对大多数物种都有着强力的吸引力.§!\n"
+
+trait_lv_targeted_pheromones: "针对性信息素"
+trait_lv_targeted_pheromones_desc: "§L不散的信息素萦绕在这个物种的任何地方的空气中，让那些没有性经验个体受暗示。Sensory dulling clouds of pheromones hang in the air anywhere this species lingers, leaving those unused to it rather susceptible to suggestion.§!\n"
+
+trait_lv_adorable: "可爱"
+trait_lv_adorable_desc: "§L这个种族的一些特质使得他们在大多数物种的眼中都非常可爱。Something about this race makes them very cute in the eyes of most species.§!\n"
+
+trait_lv_elastic_orifices: "弹性阴道"
+trait_lv_elastic_orifices_desc: "§L该物种的阴道具有出色的肌肉控制能力，不仅可以让任何配偶满意，还能轻松生育。This species has tight, stretchy orifices with excellent muscle control, not only allowing them to please any mate, but to give birth with ease.§!\n"
+
+trait_lv_nudist: "裸体主义者"
+trait_lv_nudist_desc: "§L对于其原生环境气候，他们的身体具有天然的调节性，因此该物种几乎没有穿着没有实用性或文化意义的衣服。Due to their natural resilience towards their native environment, this species tends to wear little to no clothing that does not have utility or cultural significance.§!\n"
+
+trait_lv_exhibitionist: "暴露狂"
+trait_lv_exhibitionist_desc: "§L此物种厌恶所有非必要的衣物。§!\n"
+
+trait_lv_sadistic: "虐待狂"
+trait_lv_sadistic_desc: "§L该物种的许多个体从他人的痛苦中获得性快感。Many members of this species derive sexual gratification from the pain of others.§!\n"
+
+trait_lv_masochistic: "自虐"
+trait_lv_masochistic_desc: "§L这个物种对一定程度的痛苦产生了奇怪的享受。虽然主要是性行为中，但它也有助于他们在其他领域的发展。This species has evolved a strange enjoyment for a degree of pain. While mostly sexual, it also aids them in physically demanding fields.§!\n"
+
+trait_lv_sexually_gifted: "性爱天赋"
+trait_lv_sexually_gifted_desc: "§L从热身，到前戏，再到性爱本身，这个物种交配仪式的每一个部分都是精心设计的，且最具观赏性，十分动人。From warm up, to foreplay, to the sex itself, every part of this species mating rituals are elaborate and to most sensibilities, quite sultry.§!\n"
+
+trait_lv_lewd_mind: "淫欲思维"
+trait_lv_lewd_mind_desc: "§L这个物种具有过度活跃的性欲，他们总会想到性爱。This species has an overactive libido, and often find their thoughts drawn to sex.§!\n"
+
+trait_lv_soft: "柔软"
+trait_lv_soft_desc: "§L此物种演变出柔软丰满的体型，适合各种姿势，也促进了性骚扰。This species produces soft, abundant fibers suitable for use in domestic goods and encouraging molestation.§!\n"
+
+trait_lv_honeydew: "蜜汁"
+trait_lv_honeydew_desc: "§L该物种可从体内的腺体中分泌出甜蜜可食用的液体，这些腺体在菊门周围最为密集，直肠按摩或使用肛塞可以大大提高产量。This species secretes a sweet, edible fluid from glands across its body. However, these glands are densest around the anus, and rectal massage or the use of plugs can greatly improve production.§!\n"
+
+trait_lv_honey: "产蜜"
+trait_lv_honey_desc: "§L该物种可以使一些不可食用的生物质变成蜜糖，该蜜糖通过专门的穴口挤出。这个穴口内具有蠕动的凸起和强大的肌肉控制能力，不仅可以被抽插，还可以搅拌产出的蜜糖。This species can render otherwise inedible biomass into honey, which is them extruded via a specialized orifice. This orifice is not only penetrable, but possesses wriggling bumps and powerful muscle control to blend the final mixture.§!\n"
+
+trait_lv_spiced_honey: "Spiced Honey"
+trait_lv_spiced_honey_desc: "§L进一步的消化过程赋予该物种此特性，能产出含有少量有价值香料的蜜，香料可以通过离心机轻松地分离。Genetic sculpting of redundant digestive chemical processes has resulted in this species honey containing a small amount of valuable spice, which can be easily separated via centrifuge.§!\n"
+
+trait_lv_honeypot: "蜜罐"
+trait_lv_honeypot_desc: "§L该物种可以作为生活食物储备，产生浓郁、营养丰富的液体，并储存在专用的喂食器里。其他人可以根据需要从他们身上汲取。This species can serve as living food storage, produces a dense, nutrient rich fluid and store enough that dedicated feeders become immobile. Other individuals can then drink from them as needed.§!\n"
+
+trait_lv_nacre: "珍珠"
+trait_lv_nacre_desc: "§L该物种的粘膜分泌一种化合物，能形成坚硬的虹彩质或称为珍珠的球体。The mucus membranes of this species secrete a compound that forms into hard, iridescent plates or spheres called nacre or pearl.§!\n"
+
+trait_lv_living_nacre: "活体珍珠"
+trait_lv_living_nacre_desc: "§L操纵珍珠形成的化学过程使得该物种能够产生类似于活体金属的生物金属珍珠。Manipulation of the chemical process involved in nacre formation has allowed this species to produce pearls containing traces of near magical living metal.§!\n"
+
+trait_lv_ivory: "长牙"
+trait_lv_ivory_desc: "§L该物种拥有许多牙齿，如长牙，这些结构在丢失时会重新生长，其具有可再生性。This species not only possesses a number of ivory extrusions such as tusks, but these structures regrow when lost, making them sustainability valuable.§!\n"
+
+trait_lv_crystal_ivory: "水晶长牙"
+trait_lv_crystal_ivory_desc: "§L通过仔细的遗传操作，这种物种会慢慢地生长出一个小的结晶角，这些结晶角由身体通常会丢弃的稀有微量元素组成。After careful genetic manipulation, this species body now endlessly, if slowly grows a small crystalline horn composed of rare trace elements that the body would normally discard.§!\n"
+
+trait_lv_nutrient_extrusion: "营养晶体"
+trait_lv_nutrient_extrusion_desc: "§L该物种中的特殊消化过程使它们能够处理过量的营养物质，以便以后进行重吸收，从肛门表面的修饰毛孔中形成的糖状晶体出现。Specialized digestive processes in this species allow them to process excess nutrients for later reconsumption, appearing as sugar like crystals that form from modified pores on the surface of the anus.§!\n"
+
+trait_lv_spice_extrusion: "香料晶体"
+trait_lv_spice_extrusion_desc: "§L进一步消化过程的遗传基因不仅导致排出营养晶体，而且还有少量香料沉积在这个物种的肛门表面上。 在工业上，对于那些人来说，很有烹饪价值。Genetic sculpting of redundant digestive chemical processes has resulted in not only nutrient crystals, but tiny amounts of spice to deposit on this species anal surface. Industrially, and for those unbothered, culinarilly valuable.§!\n"
+
+trait_lv_natural_anal_lube: "天然肛门润滑剂"
+trait_lv_natural_anal_lube_desc: "§L粗糙的饮食导致这种物种进化出一种天然的肛门润滑剂，从他们体内大量渗出。它的异常有效使其具有市场价值，并且安全可靠。A rough, gritty diet has led to this species evolving a natural anal lubrication that seeps from them at copious levels. Its abnormal efficiency leaves it marketable, and is safely consumable.§!\n"
+
+trait_lv_long_tongues: "长舌"
+trait_lv_long_tongues_desc: "§L该物种拥有一个非常长，而且灵巧的舌头。This species possesses an extremely long, dexterous tongue.§!\n"
+
+trait_lv_neuron_saliva: "神经元唾液"
+trait_lv_neuron_saliva_desc: "§L该物种的唾液含有准神经元细胞，可将感官信息反馈给该生物。他们能更加生动地体验品味亲密感，而且这种唾液在科学领域非常有价值。The saliva of this species contains quasi-neuron cells that feed sensory information back to the creature. Not only do they experience tastes and intimacy far more vividly, but this saliva is highly valuable in scientific fields.§!\n"
+
+trait_lv_wax: "蜡"
+trait_lv_wax_desc: "§L该物种生产天然蜡，主要用于辅助建筑。This species produces a natural wax, predominantly to aid in construction.§!\n"
+
+trait_lv_spinnerets: "Spinnerets"
+trait_lv_spinnerets_desc: "§L该物种拥有一个丝腺在肛门入口处。肛门被常用于丝绸生产，不过通过一些努力，腺体本身可以被插入。This species has a silk gland and small manipulating digits at the entrance to its anus. Anal is common and believed to stimulate silk production, and with some effort, the gland itself can be penetrated.§!\n"
+
+trait_lv_erogenous_anus: "敏感肛门"
+trait_lv_erogenous_anus_desc: "§L该物种具有特别性敏感的肛门，其程度使得该种族的大多数成员认为阴道仅用于繁殖。This species has an exceptionally sexually sensitive anus to such a degree that most members of this race consider vaginal only for reproduction.§!\n"
+
+trait_lv_orgone_coalescence: "性能量聚合"
+trait_lv_orgone_coalescence_desc: "§L这种具有灵能性的天赋种族能够将周围的性能量聚集成一种物理形态，看起来像沙子一样堆放在一般区域。This psionically gifted race is capable of coalescing sexual energies around them down into a physical form, appearing as sand like grains littering the general area.§!\n"
+
+trait_lv_zoophilic_uplift: "兽交癖Zoophilic Uplift"
+trait_lv_zoophilic_uplift_desc: "§L这个物种通过大规模的兽交育种逐渐被提升智慧。This species was gradually uplifted to sapience via mass zoophilia. Selective breeding has left them docile to a fault, and they prefer being free from the burden of choice.§!\n"
+
+trait_lv_large_breasts: "大乳房"
+trait_lv_large_breasts_desc: "§L该物种的乳房比例大于其他哺乳物种。§!\n"
+
+trait_lv_huge_breasts: "巨乳"
+trait_lv_huge_breasts_desc: "§L该物种的乳房比例比其他哺乳物种大得多。§!\n"
+
+trait_lv_multiple_breasts: "多乳"
+trait_lv_multiple_breasts_desc: "§L该物种不是有一个乳房，一对乳房或一排乳房，而是拥有超多的乳腺。§!\n"
+
+trait_lv_high_volume_lactation: "大量泌乳"
+trait_lv_high_volume_lactation_desc: "§L这个物种永远分泌大量乳汁。§!\n"
+
+trait_lv_fizzy_milk: "碳酸乳"
+trait_lv_fizzy_milk_desc: "§L该物种的乳腺有一种共生细菌，它既有助于饮用者的免疫系统，又可以产生更细腻的发酵乳，并以极高的敏感性和运动导致起泡和肿胀，从而大大刺激泌乳。§!\n"
+
+trait_lv_highly_nutritious_milk: "高营养乳"
+trait_lv_highly_nutritious_milk_desc: "§L该物种乳汁的脂肪，蛋白质等营养价值远高于星系标准。§!\n"
+
+trait_lv_drooling_vagina: "淌水蜜穴"
+trait_lv_drooling_vagina_desc: "§L该物种的雌性享受强烈的，淫乱的高潮，能够收集他们的爱液。§!\n"
+
+trait_lv_aphrodisiac_milk: "催情乳"
+trait_lv_aphrodisiac_milk_desc: "§L该物种进化为在其繁殖周期的大部分时间内都能泌乳，并且会在十分性奋时下意识地将催情剂混入其乳汁中。§!\n"
+
+trait_lv_oviposition: "产卵"
+trait_lv_oviposition_desc: "§L该物种通过产卵繁殖。This species reproduces via laying eggs.§!\n"
+
+trait_lv_fuckable_nipples: "可性交乳头"
+trait_lv_fuckable_nipples_desc: "§L该物种拥有可以容纳雄性生殖器插入的乳腺。This species possesses penetrable mammary glands.§!\n"
+
+trait_lv_incubator_breasts: "孵化乳房"
+trait_lv_incubator_breasts_desc: "§L该物种拥有具有怀孕功能的乳房。乳房妊娠的刺激往往会导致产奶量过多。This species possesses breasts containing functional wombs. The stimulation of breast pregnancies tend to cause excessive milk production.§!\n"
+
+trait_lv_monotreme_lactation: "卵生哺乳动物乳"
+trait_lv_monotreme_lactation_desc: "§L无论是正在演化乳房还是从拥有过乳房，遗传的怪癖都会导致该物种的雌性在身体出汗时，排出富含有益微生物的乳汁。§!\n"
+
+trait_lv_superfetation: "异期复孕"
+trait_lv_superfetation_desc: "§L该物种即使已经怀孕，也能够在胚胎不同的发育阶段再次排卵受孕，对于这个物种来说正常的性行为总是有风险的。§!\n"
+
+trait_lv_litters: "多孕"
+trait_lv_litters_desc: "§L该物种怀孕大部分能生出数个孩子。§!\n"
+
+trait_lv_calcified_milk: "钙化乳"
+trait_lv_calcified_milk_desc: "§L该物种的乳汁容易在放置中钙化成稳定的形态，也能在味道没有损失的情况下再水合。§!\n"
+
+trait_lv_shapely_ass: "美臀"
+trait_lv_shapely_ass_desc: "§L这个物种有着大而匀称的臀部，适合弹力爱好者。§!\n"
+
+trait_lv_breeder_hips: "大屁股"
+trait_lv_breeder_hips_desc: "§L这个物种的女性普遍拥有宽广的臀部，可以延长性爱时间，且容易分娩。§!\n"
+
+trait_lv_physogastric_oviposition: "专职产卵"
+trait_lv_physogastric_oviposition_desc: "§L此物种的少数雌性选择承受永久性激素变化，使卵巢进入超载状态，成为专门的繁殖者，每天可生产数百个卵。§!\n"
+
+trait_lv_large_penis: "大根"
+trait_lv_large_penis_desc: "§L与银河系平均值相比，该物种的雄性具有良好的天赋。The males of this species are well endowed compared to the galactic average.§!\n"
+
+trait_lv_huge_penis: "巨根"
+trait_lv_huge_penis_desc: "§L与星系的平均值相比，该物种雄性的阴茎非常巨大。The males of this species are very well endowed compared to the galactic average.§!\n"
+
+trait_lv_multiple_penises: "多根"
+trait_lv_multiple_penises_desc: "§L该物种的雄性拥有多个阴茎，且非常喜欢使用它们。The males of this species possesses multiple penises, and greatly enjoy using them.§!\n"
+
+trait_lv_high_volume_ejaculations: "涌泉相报（大量射精）"
+trait_lv_high_volume_ejaculations_desc: "§L这个种族的雄性会射出如洪水般的大量精液，使得被体内射精的雌性无不子宫胀大。This species produces such an obscene amount of semen that most race's wombs are left physically bloated. Clean up is a must.§!\n"
+
+trait_lv_aphrodisiac_cum: "催情精液"
+trait_lv_aphrodisiac_cum_desc: "§L该物种能射出含有强效信息素的浓厚精液，可促使多次交配确保受精。This species produces potent, pheromone heavy semen that encourages repeated mating and ensures insemination.§!\n"
+
+trait_lv_addictive_cum: "成瘾精液"
+trait_lv_addictive_cum_desc: "§L该物种的精液含有许多成瘾成分，能使其雌性和其他物种的雌性屈服，且该精液有挥发性。This species semen contains a number of physically addictive compounds that render their females, and the females of other species subservient. And volatile.§!\n"
+
+trait_lv_psychoactive_cum: "催眠精液Psychoactive Cum"
+trait_lv_psychoactive_cum_desc: "§L该物种的精液对大多数雌性都具有改变其思维的效果，使它们容易受到暗示。This species semen has mind altering effects on most females, rendering them susceptible to suggestion.§!\n"
+
+############
+# Negative #
+############
+
+trait_lv_sex_crazed: "性狂热"
+trait_lv_sex_crazed_desc: "§L该物种痴迷于性爱，很难长时间不去想它。§!\n"
+
+trait_lv_seasonal_breeders: "繁殖节律"
+trait_lv_seasonal_breeders_desc: "§该物种的繁殖期较窄。具有不利季节条件的世界可能会干扰这种节律。§!\n"
+
+trait_lv_sexually_inept: "性无能"
+trait_lv_sexually_inept_desc: "§L该物种的性行为是仅仅为了繁殖的，一种短暂的，没有多余意义的事情，。§!\n"
+
+trait_lv_sexually_repressed: "性压抑"
+trait_lv_sexually_repressed_desc: "§L该物种的某些特质使它们对于性行为异常保守。§!\n"
+
+trait_lv_small_breasts: "瘦乳"
+trait_lv_small_breasts_desc: "§L该物种的乳房大小比其他大多数哺乳动物都要小得多。§!\n"
+
+trait_lv_watery_milk: "稀薄乳汁"
+trait_lv_watery_milk_desc: "§L该物种乳汁的脂肪，蛋白质等营养价值远低于星系标准。§!\n"
+
+trait_lv_small_penis: "短小"
+trait_lv_small_penis_desc: "§与星系平均值相比，该物种雄性的生殖器明显短小。§!\n"
+
+####################################
+###     Organic Interbreeder     ###
+####################################
+
+trait_lv_brood_parasite: "寄生孵化"
+trait_lv_brood_parasite_desc: "§L该物种需要宿主孵化其胚胎。 它们能够将大量的卵植入宿主体内，这可能会非常不舒服，除非你乐意成为异种孕奴。§!\n"
+
+trait_lv_all_female: "完全雌性"
+trait_lv_all_female_desc: "§L该物种完全由雌性组成，需要寻找其他繁殖方式。§!\n"
+
+trait_lv_all_male: "完全雄性"
+trait_lv_all_male_desc: "§L该物种完全由雄性组成，需要寻找其他繁殖方式。§!\n"
+
+trait_lv_intercompatible_womb: "杂交子宫"
+trait_lv_intercompatible_womb_desc: "§L该物种的卵子能够与不同物种的精子成功杂交。The ova of this species is capable of successfully hybridizing with the spermatozoa of completely unrelated species.§!\n"
+
+trait_lv_intercompatible_sperm: "杂交精子"
+trait_lv_intercompatible_sperm_desc: "§L该物种的精子能够成功地使不同物种的卵子受精。The spermatozoa of this species are capable of successfully fertilizing the ova of completely unrelated species.§!\n"
+
+##############################
+###     Robotic Traits     ###
+##############################
+
+############
+# Positive #
+############
+
+trait_lv_pheromone_generators: "信息素发生器"
+trait_lv_pheromone_generators_desc: "§L这些机器配备有能够合成信息素的装置，以帮助与有机物相互作用。§!\n"
+
+trait_lv_sex_bots: "性爱机器人"
+trait_lv_sex_bots_desc: "§L这些机器人是为了性爱而创造的。§!\n"
+
+trait_lv_maternal_programming: "母性编程"
+trait_lv_maternal_programming_desc: "§L这些机器人被编程为以母亲的方式对待别人。These robots are programmed to behave in a motherly way towards those not explicitly deigned their superiors.§!\n"
+
+trait_lv_breast_attachments: "乳房配件"
+trait_lv_breast_attachments_desc: "§L感觉逼真的假乳房配有可抽插的乳头。§!\n"
+
+trait_lv_synth_breasts: "合成乳房"
+trait_lv_synth_breasts_desc: "§L这些可插入的生物科技乳房能回收射入的有机物质合成人造奶。§!\n"
+
+trait_lv_fleshlight_slot: "飞机杯接口"
+trait_lv_fleshlight_slot_desc: "§L一个基本接口，允许安装飞机杯。§!\n"
+
+trait_lv_custom_fleshlight_slot: "自定义飞机杯接口"
+trait_lv_custom_fleshlight_slot_desc: "§L接口允许安装各种高级的飞机杯。§!\n"
+
+trait_lv_synth_vagina: "合成阴道"
+trait_lv_synth_vagina_desc: "§L一流的客制化生物合成阴道§!\n"
+
+trait_lv_paternal_programming: "父性编程"
+trait_lv_paternal_programming_desc: "§L这些机器人被编程为以父亲的方式对待别人。These robots are programmed to behave in a fatherly way towards those not explicitly deigned their superiors.§!\n"
+
+trait_lv_dildo_attachment: "假阳具附件"
+trait_lv_dildo_attachment_desc: "§L该模型包括一个连接假阳具的基本安装端口。§!\n"
+
+trait_lv_custom_dildo_attachment: "自定义假阳具附件"
+trait_lv_custom_dildo_attachment_desc: "§L这个型号有一个接口端口，允许它与各种高端性玩具连接。§!\n"
+
+trait_lv_synth_penis: "合成阴茎"
+trait_lv_synth_penis_desc: "§L一流的客制化生物合成阴茎§!\n"
+
+#####################################
+###     Biomechanical Breeder     ###
+#####################################
+
+trait_lv_artificial_womb: "人造子宫"
+trait_lv_artificial_womb_desc: "§L这种机器模型配备了人造子宫，使其能够孕育预受精卵。This robotic model is equipped with a mechanical womb, allowing it to gestate pre-fertilized ovum.§!\n"
+
+trait_lv_advanced_artificial_womb: "先进人造子宫"
+trait_lv_advanced_artificial_womb_desc: "§L这种机器有一个机器子宫，配有基因库和生物操纵工具，可以让孩子不需要有机雌性。This robot has an artificial womb equipped with a genetic library and biomanipulation tools, allowing it to bear children with no need for an organic female.§!\n"
+
+trait_lv_cybernetic_womb: "赛博子宫"
+trait_lv_cybernetic_womb_desc: "§L这种次时代合成子宫使用先进的纳米材料和生物技术去创造赛博胎儿，这将与孩子一起成长。This next-gen synth womb uses advanced nanites and biotech to apply fetal cybernetics that will grow with the child.§!\n"
+
+trait_lv_synth_brood_breasts: "合成孵化乳房"
+trait_lv_synth_brood_breasts_desc: "§L配有可插入的穴，母乳合成器和功能性子宫，这些合成乳房是性爱机器人技术的真正前沿。Equipped with fuckable orifices, milk synthesizers and functional wombs, these synth breasts are the truly bleeding edge of sex-bot tech.§!\n"
+
+trait_lv_biomechanical_breeder: "仿生育种"
+trait_lv_biomechanical_breeder_desc: "§L该机器能够从程序基因库合成人工种子，允许在没有雄性的情况下繁殖。This robot is capable of synthesizing artificial seed from programmed gene banks, allowing reproduction in the absence of males.§!\n"
+
+trait_lv_synth_seeder: "合成播种"
+trait_lv_synth_seeder_desc: "§L这种先进的播种机器的产生物包括纳米级负载，将小心地植入发育中的胎儿，利用生物技术使孩子成长。This advanced seeder's emissions include a nanite load that will carefully implant the developing fetus with biotech cybernetics capable of growing with the child.§!\n"
+
+###########################
+###     Temp Traits     ###
+###########################
+
+# All Male #
+
+trait_lv_all_male_static: "完全雄性"
+trait_lv_all_male_static_desc: "§L与具有杂交子宫的生物雌性一起繁殖。§!\n"
+
+trait_lv_all_male_intercompatible_womb_static: "完全雄性杂交子宫All Male Intercompatible Womb Modifier"
+trait_lv_all_male_intercompatible_womb_static_desc: "§L仅与雄性物种一起繁殖。Breeding with an exclusively male species.§!\n"
+
+# Biomechanical Breeder #
+
+trait_lv_cognitive_dissonance_seeder_static: "认知失调播种机"
+trait_lv_cognitive_dissonance_seeder_static_desc: "§L固化的亲子协议和过时的硬件导致意外产生反常工蜂。Stubborn paternity protocols and antiquated hardware are causing a sudden spike in drone deviancy.§!\n"
+
+trait_lv_rough_edges_static: "粗糙的边缘"
+trait_lv_rough_edges_static_desc: "§L尽管采取了预防措施，但这些母亲在孩子的出产中遭受了一些痛苦。Despite precautions, these mothers suffer some pain from their children's prenatal cybernetics.§!\n"
+
+trait_lv_crisis_of_faith_static: "信仰危机"
+trait_lv_crisis_of_faith_static_desc: "§L许多人群性交通过武力和恐惧构建对自己孩子的灵魂的完整性性。Many in this population have had sex with constructs by force and fear for the integrity of their children's souls.§!\n"
+
+# Biomechanical Wombs #
+
+trait_lv_biotech_womb_static: "仿生子宫"
+trait_lv_biotech_womb_static_desc: "§L这些机器的人造子宫目前正在使用，必须小心保护孩子。These robot's artificial wombs are currently in use, and care must be taken to protect the child.§!\n"
+
+trait_lv_cognitive_dissonance_womb_static: "子宫认知失调"
+trait_lv_cognitive_dissonance_womb_static_desc: "§L固化的生产协议和过时的硬件导致意外产生反常工蜂。Stubborn maternity protocols and antiquated hardware are causing a sudden spike in drone deviancy.§!\n"
+
+trait_lv_brood_breasts_static: "孵化乳房"
+trait_lv_brood_breasts_static_desc: "§L这些机器的孵化乳房目前正在使用中。 加工过的生物物质不足以满足他们的需要，必须小心保护孩子。These robot's brood breasts are currently in use. Processed biomatter is insufficient for their needs and care must be taken to protect the children.§!\n"
+
+trait_lv_biomech_wombs_static: "生物机械子宫"
+trait_lv_biomech_wombs_static_desc: "§L与有生物机械子宫的机器单位繁殖。Breeding with robotic units that have biomechanical wombs.§!\n"
+
+# Brood Parasite #
+
+trait_lv_brood_parasite_static: "寄生孕育"
+trait_lv_brood_parasite_static_desc: "§L这种寄生物正在繁殖§!\n"
+
+trait_lv_brood_mother_static: "孕母"
+trait_lv_brood_mother_static_desc: "§L这是一个孕母This pop is currently a brood mother.§!\n"
+
+trait_lv_brood_mother_xenophile_static: "喜异种孕母"
+trait_lv_brood_mother_xenophile_static_desc: "§L喜异种孕母非常乐意孕育她肚子里的寄生物§!\n"
+
+trait_lv_brood_mother_xenophobe_static: "恶异种孕母"
+trait_lv_brood_mother_xenophobe_static_desc: "§L孕母非常不情愿成为宿主§!\n"
+
+# Intercompatible sperm #
+
+trait_lv_intercompatible_sperm_static: "杂交精子"
+trait_lv_intercompatible_sperm_static_desc: "§L使异种雌性受孕This pop is currently impregnating xeno females.§!\n"
+
+trait_lv_intercompatible_sperm_fucked_static: "杂交精子授精"
+trait_lv_intercompatible_sperm_fucked_static_desc: "§L被异种雄性授精§!\n"
+
+trait_lv_intercompatible_sperm_fucked_xenophile_static: "异种授精Intercompatible Sperm Xenophile Modifier"
+trait_lv_intercompatible_sperm_fucked_xenophile_static_desc: "§L因被异种雄性授精而狂喜。This pop is very happy to be impregnated by male xenos.§!\n"
+
+trait_lv_intercompatible_sperm_fucked_xenophobe_static: "异种授精Intercompatible Sperm Xenophobe Modifier"
+trait_lv_intercompatible_sperm_fucked_xenophobe_static_desc: "§L因被异种雄性授精而悲愤。This pop is very unhappy from being impregnated by male xenos.§!\n"
+
+trait_lv_intercompatible_sperm_intercompatible_womb_fucked_static: "杂交精子与杂交子宫"
+trait_lv_intercompatible_sperm_intercompatible_womb_fucked_static_desc: "§L该物种是杂交兼容种，与具有杂交精子的雄性高度相容。This species is a xeno interbreeder and is highly compatible with the males who posses intercompatible sperm.§!\n"
+
+# Intercomatible Womb #
+
+trait_lv_intercompatible_womb_static: "杂交子宫"
+trait_lv_intercompatible_womb_static_desc: "§L与被异种雄性配种This pop is currently breeding with xeno males.§!\n"
+
+trait_lv_fucking_intercompatible_womb_static: "播种杂交子宫Breeding Intercompatible Womb Modifier" 
+trait_lv_fucking_intercompatible_womb_static_desc: "§L与异种雌性配种This pop is currently breeding with xeno females.§!\n"
+
+trait_lv_fucked_wildlife_intercompatible_womb_static: "播种野生生物杂交子宫Breeding Wildlife IC Womb Modifier"
+trait_lv_fucked_wildlife_intercompatible_womb_static_desc: "§L高风险下播种，野生生物高度亢奋。Breeding with dangerous yet highly virile xeno wild life.§!\n"
+
+###

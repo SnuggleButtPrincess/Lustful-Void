@@ -1,0 +1,37 @@
+﻿l_english:
+
+########################
+###     Policies     ###
+########################
+
+################
+# Interbreeder #
+################
+
+# Xeno Female Restriction #
+
+policy_lv_restrict_xeno_females: "Xeno Incubator Pop Control"
+policy_lv_restrict_xeno_females_desc: "Controls on interspecial incubator breeding behaviors."
+
+lv_xeno_females_restricted: "Restrict Xeno Females"
+lv_xeno_females_restricted_name: "Restrict Xeno Females" 
+lv_xeno_females_restricted_desc: "The number of xeno males that interspecial incubators may legally breed with is limited to allow xeno females of other species to mate with males of their own kind."
+
+lv_no_xeno_female_restrictions: "No Xeno Female Restrictions"
+lv_no_xeno_female_restrictions_name: "No Xeno Female Restrictions" 
+lv_no_xeno_female_restrictions_desc: "No action will be taken to control the breeding behaviors of interspecial incubators. This will likely lead to a massive decline in the population of other xeno females, leading to large numbers of male populations completely dependent on interbreeders to propagate."
+
+# Xeno Male Restriction #
+
+policy_lv_restrict_xeno_males: "Intercompatible Sperm Pop Control"
+policy_lv_restrict_xeno_males_desc: "Controls on species possessing intercompatible sperm."
+
+lv_xeno_males_restricted: "Restrict Xeno Males"
+lv_xeno_males_restricted_name: "Restrict Xeno Males" 
+lv_xeno_males_restricted_desc: "The number of xeno females that males with intercompatible sperm may legally breed with is limited to allow xeno males of other species to mate with females of their own kind."
+
+lv_no_xeno_male_restrictions: "No Xeno Male Restrictions"
+lv_no_xeno_male_restrictions_name: "No Xeno Male Restrictions" 
+lv_no_xeno_male_restrictions_desc: "No action will be taken to control the breeding behaviors of males with intercompatible sperm. This will likely lead to a massive decline in the population of other xeno males, leading to large numbers of female populations completely dependent on interbreeders to propagate."
+
+###

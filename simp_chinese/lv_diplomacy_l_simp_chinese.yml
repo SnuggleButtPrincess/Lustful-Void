@@ -1,0 +1,76 @@
+﻿l_simp_chinese:
+
+#########################
+###     Diplomacy     ###
+#########################
+
+###############
+# Governments #
+###############
+
+# Lesbocracy #
+
+gov_lv_lesbian_convocation: "女同集会"
+gov_lv_lesbian_convocation_desc: "§L这个政府是一个完全由女同性恋控制的寡头集团形式，只由上流社会女性的核心圈子统治。公民的外貌直接转化为政治权力。This government is a fully lesbian controlled form of oligarchy, ruled by an inner circle of female only high society members. A citizen's physical appearance translates directly into political power.§!"
+
+gov_lv_absolute_lesbocracy: "女同专制"
+gov_lv_absolute_lesbocracy_desc: "§L这个政府是一个完全由女同性恋控制的专制政体，统治者绝对控制所有其他的女孩。最高位的女孩通常会统治这个帝国。This government is a fully lesbian controlled form of autocracy, with an absolute ruler in control of all the other girls. The most dominating girl usually gets to rule this empire.§!"
+
+gov_lv_seraphic_lesbian_imperium: "天使帝国"
+gov_lv_seraphic_lesbian_imperium_desc: "§L这个政府是一个高等的完全女同性恋控制的专制形式。虽然并非总是必然具有灵性，但统治者和他们的继承人却被视为无懈可击的生命女神。This government is an advanced fully lesbian controlled form of autocracy. Even though not always necessarily spiritualistic, the ruler and their heir are lustfully worshiped as infallible living goddesses.§!"
+
+gov_lv_lesbian_conglomerate: "女同公司"
+gov_lv_lesbian_conglomerate_desc: "§L这个政府是一个完全由女同性恋控制的大型企业。他们非常关注女性产品，并非常积极的收购非受控于女性的企业...或帝国。This government is a fully lesbian controlled megacorp. They have a heavy focus on female specific products and a very aggressive takeover mindset against non-female controlled corporations...or empires.§!"
+
+# Harem Makers #
+
+gov_lv_paternal_republic: "父权共和国"
+gov_lv_paternal_republic_desc: "§L一个所有男性都可以投票的政府体系，有望代表其附属女性的最佳利益。A government system wherein all males may vote, and are expected to represent the best interests of their female dependents.§!"
+
+gov_lv_manifest_destiny: "昭昭天命Manifest Destiny"
+gov_lv_manifest_destiny_desc: "§L这个虔诚的帝国主义认为，将意志强加于他们所发现的一切是上帝给他们的使命。This devout empire's doctrine holds that it is their god given duty to impose their will upon all they find.§!"
+
+gov_lv_council_of_patriarchs: "家族委员会"
+gov_lv_council_of_patriarchs_desc: "§L一种政治寡头政体，其中最有名望的几个家族主持所有国家事务。An oligarchical form of government wherein the heads of prominent families preside over all matters of state.§!"
+
+gov_lv_guiding_hand: "操纵之手Guiding Hand"
+gov_lv_guiding_hand_desc: "§L这个社会坚定地认为，在女性的反复无常特性中领导和统治是男性的负担。在他们看来，动摇就会导致破坏。This society is firmly vested in the belief that it is the burden of males to lead and to reign in the capricious nature of their females. In their mind, to falter is to invite destruction.§!"
+
+gov_lv_agnatic_autocracy: "男系专制"
+gov_lv_agnatic_autocracy_desc: "§L尽管主要是女性，但这个帝国主义社会认为女性太感情用事，无法成为真正有效的领导者，因此很少担任领导职务。男性领导，女性跟随。 王室绝对统治。Despite being predominantly female, this imperialistic society holds in absolute truth that females are too emotionally driven to ever be truly effective leaders, and so rarely hold such positions. Males lead, females follow. And the royal family leads absolutely.§!"
+
+gov_lv_family_planners: "家庭营销Family Planners"
+gov_lv_family_planners_desc: "§L这个政府作为一个儿童向企业，向父母出售各种婚姻辅助工具。以确保人们以正确的价值观成长——保证下一代成为其忠实消费者。This government functions as a business with a child friendly face while selling various marital aids to their parents. By ensuring people grow up with the right values, the next generation of consumers is assured.§!"
+
+##################
+# Rulers / Heirs #
+##################
+
+# Lesbocracy #
+
+RT_LV_LESBIAN_CONVOCATION: "天物Most Alluring"
+RT_LV_ABSOLUTE_LESBOCRACY: "Dominatrix"
+RT_LV_SERAPHIC_LESBIAN_IMPERIUM: "光明女王Radiant Empress"
+HT_LV_SERAPHIC_LESBIAN_IMPERIUM: "玲珑公主Delicate Princess"
+RT_LV_LESBIAN_CONGLOMERATE: "艳绝执行官Enticing Executive"
+
+RT_LV_LESBOCRACY_NO_MALES: "不允许男性No males allowed silly!"
+HT_LV_LESBOCRACY_NO_MALES: "不允许男性No males allowed silly!"
+
+# Harem Makers #
+
+RT_LV_PATERNAL_REPUBLIC_M: "总统"
+RT_LV_PATERNAL_REPUBLIC_F: "总统Secretary"
+RT_LV_MANIFEST_DESTINY_M: "教长Reverend"
+RT_LV_MANIFEST_DESTINY_F: "上母Mother Superior"
+RT_LV_COUNCIL_OF_PATRIARCHS_M: "大家长High Patriarch"
+RT_LV_COUNCIL_OF_PATRIARCHS_F: "夫人Madame"
+RT_LV_GUIDING_HAND_M: "主宰Master"
+RT_LV_GUIDING_HAND_F: "主宰配偶Consort"
+RT_LV_AGNATIC_AUTOCRACY_M: "大帝Caesar"
+RT_LV_AGNATIC_AUTOCRACY_F: "遗孀Widow"
+HT_LV_AGNATIC_AUTOCRACY_M: "小主宰Young Master"
+HT_LV_AGNATIC_AUTOCRACY_F: "公主Princess"
+RT_LV_FAMILY_PLANNERS: "造梦工程师Imagineer"
+
+###
